@@ -3,7 +3,7 @@ function Header(){
 
     return(
         <>
-        <div className="header"><img src="./PUBLIC/GJUST_1.PNG" />{heading}</div>
+        <div className="header"><img src="/GJUST_1.png" />{heading}</div>
         </>
     )
 }
